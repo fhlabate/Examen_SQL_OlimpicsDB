@@ -14,7 +14,7 @@ Una vez creada la base de datos:
 
 ![image](https://github.com/user-attachments/assets/779810c6-1309-4486-8e07-23b9e3a6edd4)
 
-3. Escribe las consultas que respondan a las siguientes preguntas:
+2. Escribe las consultas que respondan a las siguientes preguntas:
 
    2.1. Muestra la cantidad de eventos que tiene cada deporte (0,5p).
 
