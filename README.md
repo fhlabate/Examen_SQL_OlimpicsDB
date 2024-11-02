@@ -1,6 +1,8 @@
 # Examen SQL [OlimpicsDB]
 Exámen para completar la etapa SQL de fundamentos de la especialización en Data Analytics.
+
 Motor: MySQL
+
 ![image](https://github.com/user-attachments/assets/a7acdb8c-2c22-44ac-a8f6-403975622215)
 
 ## Preguntas
