@@ -1,5 +1,5 @@
-# Examen SQL [OlimpicsDB]
-Exámen para completar la etapa SQL de fundamentos en la especialización en Data Analytics.
+# Exámen SQL [OlimpicsDB]
+Exámen para completar la etapa SQL de los fundamentos en la especialización de Data Analytics.
 
 Motor: MySQL
 
