@@ -22,7 +22,7 @@ Una vez creada la base de datos:
    
    2.2. Muestra el nombre de la ciudad y la cantidad de Juegos Olímpicos que han organizado, de las ciudades que han organizado más de unos Juegos Olímpicos (1p).
 
-    ![image](https://github.com/user-attachments/assets/8b5a92aa-db17-45ed-b200-a31b496f3754)
+    ![image](https://github.com/user-attachments/assets/f8bffc93-4310-45b3-8fd6-791820ad9514)
 
    2.3. Muestra el nombre de todas las deportista	s (género femenino) españolas que participaron en los Juegos de Barcelona 92 y que se llaman Cristina (puedes hacer la consulta teniendo en cuenta que el id de los Juegos de Barcelona 92 es 1) (1p).
 
