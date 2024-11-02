@@ -11,10 +11,12 @@ En primer lugar, crea la base de datos ejecutando las instrucciones que contiene
 Una vez creada la base de datos:
 
 1. Dibuja un esquema de las tablas y sus relaciones (1,5p)
-  ![image](https://github.com/user-attachments/assets/779810c6-1309-4486-8e07-23b9e3a6edd4)
 
-2. Escribe las consultas que respondan a las siguientes preguntas:
-  2.1. Muestra la cantidad de eventos que tiene cada deporte (0,5p).
+![image](https://github.com/user-attachments/assets/779810c6-1309-4486-8e07-23b9e3a6edd4)
+
+3. Escribe las consultas que respondan a las siguientes preguntas:
+
+   2.1. Muestra la cantidad de eventos que tiene cada deporte (0,5p).
 
    ![image](https://github.com/user-attachments/assets/ae288332-3d1d-433d-90cd-4034630c6a5d)
    
